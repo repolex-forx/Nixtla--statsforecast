@@ -1,0 +1,11 @@
+{
+  "org": "Nixtla",
+  "repo": "statsforecast",
+  "versions": [
+    {
+      "commit": "61bd26fa11c020ba0b31dcdfef77e99c9d52bb7d",
+      "tag": "",
+      "parsed_at": "2026-10-17T18:46:09.374042+00:00"
+    }
+  ]
+}
