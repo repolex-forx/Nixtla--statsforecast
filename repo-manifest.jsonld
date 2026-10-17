@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Nixtla/statsforecast/commit/61bd26fa11c020ba0b31dcdfef77e99c9d52bb7d",
       "git:hexsha": "61bd26fa11c020ba0b31dcdfef77e99c9d52bb7d",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T18:46:09.373267+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Nixtla/statsforecast/commit/877327540616fd6028b04d681f119f5ee51c7dfe",
