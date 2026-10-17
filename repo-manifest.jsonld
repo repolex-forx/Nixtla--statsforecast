@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Nixtla/statsforecast/commit/61bd26fa11c020ba0b31dcdfef77e99c9d52bb7d",
       "git:hexsha": "61bd26fa11c020ba0b31dcdfef77e99c9d52bb7d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Nixtla/statsforecast/commit/877327540616fd6028b04d681f119f5ee51c7dfe",
